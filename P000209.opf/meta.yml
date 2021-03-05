@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000209
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེའི་ཞལ་གསུང་བློ་སྦྱོང་དོན་བདུན་མའི་བཀའ་ཁྲིད་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེ།
-  sku: IBA-MT-01-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-MT-01-1
 web_metadata:
   title:
     en: A Commentary on the Seven Points of Mind Training
